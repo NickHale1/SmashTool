@@ -14,6 +14,7 @@ import javafx.fxml.FXMLLoader;
 import javafx.fxml.Initializable;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
+import javafx.scene.image.ImageView;
 import javafx.scene.layout.AnchorPane;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
@@ -44,6 +45,19 @@ public class SmashToolMain extends Application implements Initializable{
     @FXML Button fight;
    	@FXML Text p1Text;
    	@FXML Text p2Text;
+   	@FXML ImageView logoImage;
+   	@FXML ImageView p1f1picture;
+   	@FXML ImageView p1f2picture;
+   	@FXML ImageView p1f3picture;
+   	@FXML ImageView p2f1picture;
+   	@FXML ImageView p2f2picture;
+   	@FXML ImageView p2f3picture;
+   	@FXML Text p1f1name;
+   	@FXML Text p1f2name;
+   	@FXML Text p1f3name;
+   	@FXML Text p2f1name;
+   	@FXML Text p2f2name;
+   	@FXML Text p2f3name;
 
 	@Override
 	public void initialize(URL arg0, ResourceBundle arg1) {
@@ -51,6 +65,24 @@ public class SmashToolMain extends Application implements Initializable{
 			@Override
 			public void handle(ActionEvent event) {
 				SmashCharacter [] playableFighters = ultimate.determineCharacters();
+				//set player 1 fighter names
+				p1f1name.setText(playableFighters[0].getName());
+				p1f2name.setText(playableFighters[1].getName());
+				p1f3name.setText(playableFighters[2].getName());
+				//set player 2 fighter names
+				p2f1name.setText(playableFighters[3].getName());
+				p2f2name.setText(playableFighters[4].getName());
+				p2f3name.setText(playableFighters[5].getName());
+				//set player 1 fighter pictures
+				p1f1picture.setImage(playableFighters[0].getPicture());
+				p1f2picture.setImage(playableFighters[1].getPicture());
+				p1f3picture.setImage(playableFighters[2].getPicture());
+				//set player 2 fighter pictures
+				p2f1picture.setImage(playableFighters[3].getPicture());
+				p2f2picture.setImage(playableFighters[4].getPicture());
+				p2f3picture.setImage(playableFighters[5].getPicture());
+				
+				/*
 				p1Text.setText(
 						String.format("Player 1%n%s%n%s%n%s%n", 
 								playableFighters[0].getName(), playableFighters[1].getName(), playableFighters[2].getName()));
@@ -58,6 +90,9 @@ public class SmashToolMain extends Application implements Initializable{
 				p2Text.setText(
 						String.format("Player 2%n%s%n%s%n%s%n", 
 								playableFighters[3].getName(), playableFighters[4].getName(), playableFighters[5].getName()));
+				logoImage.setImage(playableFighters[1].getPicture());
+				*/
+				
 				
 				
 			}
@@ -68,7 +103,7 @@ public class SmashToolMain extends Application implements Initializable{
 	
 	
 	SmashCharacterRoster ultimate = 
-            new SmashCharacterRoster("C:\\Users\\halen\\Desktop\\DataStructureEclipseWorkspace\\SmashTool\\src\\Application\\ultimateRoster.txt");
+            new SmashCharacterRoster("C:\\Users\\halen\\git\\SmashTool\\SmashTool\\src\\Application\\ultimateRoster.txt");
 	
 
 	@Override

@@ -1,76 +1,76 @@
-Mario
-Donkey Kong
-Link
-Samus
-Dark Samus
-Yoshi
-Kirby
-Fox
-Pikachu
-Luigi
-Ness
-Captain Falcon
-Jigglypuff
-Peach
-Daisy
-Bowser
-Ice Climbers
-Sheik
-Zelda
-Dr. Mario
-Pichu
-Falco
-Marth
-Lucina
-Young Link
-Ganondorf
-Mewtwo
-Roy
-Chrom
-Mr. Game & Watch
-Meta Knight
-Pit
-Dark Pit
-Zero Suit Samus
-Wario
-Snake
-Ike
-Pokemon Trainer
-Diddy Kong
-Lucas
-Sonic
-King Dedede
-Olimar
-Lucario
-R.O.B
-Toon Link
-Wolf
-Villager
-Mega Man
-Wii Fit Trainer
-Rosalina & Luma
-Little Mac
-Greninja
-Mii Fighter
-Palutena
-Pac-Man
-Robin
-Shulk
-Bowser Jr.
-Duck Hunt
-Ryu
-Ken
-Cloud
-Corrin
-Bayonetta
-Inkling
-Ridley
-Simon
-Richter
-King K. Rool
-Isabelle
-Incineroar
-Piranha Plant
-Joker
-Hero
-Banjo & Kazooie
+Mario	https://www.ssbwiki.com/images/thumb/4/44/Mario_SSBU.png/250px-Mario_SSBU.png
+Donkey Kong	https://www.ssbwiki.com/images/thumb/c/c9/Donkey_Kong_SSBU.png/250px-Donkey_Kong_SSBU.png
+Link	https://www.ssbwiki.com/images/thumb/8/84/Link_SSBU.png/250px-Link_SSBU.png
+Samus	https://www.ssbwiki.com/images/thumb/0/03/Samus_SSBU.png/250px-Samus_SSBU.png
+Dark Samus	https://www.ssbwiki.com/images/thumb/a/a6/Dark_Samus_SSBU.png/250px-Dark_Samus_SSBU.png
+Yoshi	https://www.ssbwiki.com/images/thumb/8/8d/Yoshi_SSBU.png/250px-Yoshi_SSBU.png
+Kirby	https://www.ssbwiki.com/images/thumb/0/07/Kirby_SSBU.png/250px-Kirby_SSBU.png
+Fox	https://www.ssbwiki.com/images/thumb/2/2f/Fox_SSBU.png/250px-Fox_SSBU.png
+Pikachu	https://www.ssbwiki.com/images/thumb/9/93/Pikachu_SSBU.png/250px-Pikachu_SSBU.png
+Luigi	https://www.ssbwiki.com/images/thumb/b/bb/Luigi_SSBU.png/250px-Luigi_SSBU.png
+Ness	https://www.ssbwiki.com/images/thumb/8/82/Ness_SSBU.png/250px-Ness_SSBU.png
+Captain Falcon	https://www.ssbwiki.com/images/thumb/d/da/Captain_Falcon_SSBU.png/250px-Captain_Falcon_SSBU.png
+Jigglypuff	https://www.ssbwiki.com/images/thumb/6/6a/Jigglypuff_SSBU.png/250px-Jigglypuff_SSBU.png
+Peach	https://www.ssbwiki.com/images/thumb/7/74/Peach_SSBU.png/250px-Peach_SSBU.png
+Daisy	https://www.ssbwiki.com/images/thumb/2/21/Daisy_SSBU.png/250px-Daisy_SSBU.png
+Bowser	https://www.ssbwiki.com/images/thumb/4/49/Bowser_SSBU.png/250px-Bowser_SSBU.png
+Ice Climbers	https://www.ssbwiki.com/images/thumb/1/12/Ice_Climbers_SSBU.png/250px-Ice_Climbers_SSBU.png
+Sheik	https://www.ssbwiki.com/images/thumb/0/00/Sheik_SSBU.png/250px-Sheik_SSBU.png
+Zelda	https://www.ssbwiki.com/images/thumb/c/c8/Zelda_SSBU.png/250px-Zelda_SSBU.png
+Dr. Mario	https://www.ssbwiki.com/images/thumb/3/3f/Dr._Mario_SSBU.png/250px-Dr._Mario_SSBU.png
+Pichu	https://www.ssbwiki.com/images/thumb/c/c1/Pichu_SSBU.png/250px-Pichu_SSBU.png
+Falco	https://www.ssbwiki.com/images/thumb/8/80/Falco_SSBU.png/250px-Falco_SSBU.png
+Marth	https://www.ssbwiki.com/images/thumb/e/e9/Marth_SSBU.png/250px-Marth_SSBU.png
+Lucina	https://www.ssbwiki.com/images/thumb/d/dc/Lucina_SSBU.png/250px-Lucina_SSBU.png
+Young Link	https://www.ssbwiki.com/images/thumb/8/8a/Young_Link_SSBU.png/250px-Young_Link_SSBU.png
+Ganondorf	https://www.ssbwiki.com/images/thumb/9/91/Ganondorf_SSBU.png/250px-Ganondorf_SSBU.png
+Mewtwo	https://www.ssbwiki.com/images/thumb/d/de/Mewtwo_SSBU.png/250px-Mewtwo_SSBU.png
+Roy	https://www.ssbwiki.com/images/thumb/9/9d/Roy_SSBU.png/250px-Roy_SSBU.png
+Chrom	https://www.ssbwiki.com/images/thumb/5/57/Chrom_SSBU.png/250px-Chrom_SSBU.png
+Mr. Game & Watch	https://www.ssbwiki.com/images/thumb/c/cb/Mr._Game_%26_Watch_SSBU.png/250px-Mr._Game_%26_Watch_SSBU.png
+Meta Knight	https://www.ssbwiki.com/images/thumb/0/00/Meta_Knight_SSBU.png/250px-Meta_Knight_SSBU.png
+Pit	https://www.ssbwiki.com/images/thumb/3/38/Pit_SSBU.png/250px-Pit_SSBU.png
+Dark Pit	https://www.ssbwiki.com/images/thumb/0/09/Dark_Pit_SSBU.png/250px-Dark_Pit_SSBU.png
+Zero Suit Samus	https://www.ssbwiki.com/images/thumb/f/f0/Zero_Suit_Samus_SSBU.png/250px-Zero_Suit_Samus_SSBU.png
+Wario	https://www.ssbwiki.com/images/thumb/0/04/Wario_SSBU.png/225px-Wario_SSBU.png
+Snake	https://www.ssbwiki.com/images/thumb/0/02/Snake_SSBU.png/250px-Snake_SSBU.png
+Ike	https://www.ssbwiki.com/images/thumb/8/86/Ike_SSBU.png/250px-Ike_SSBU.png
+Pokemon Trainer	https://www.ssbwiki.com/images/thumb/2/28/Pok%C3%A9mon_Trainer_%28solo%29_SSBU.png/300px-Pok%C3%A9mon_Trainer_%28solo%29_SSBU.png
+Diddy Kong	https://www.ssbwiki.com/images/thumb/a/a7/Diddy_Kong_SSBU.png/250px-Diddy_Kong_SSBU.png
+Lucas	https://www.ssbwiki.com/images/thumb/8/81/Lucas_SSBU.png/250px-Lucas_SSBU.png
+Sonic	https://www.ssbwiki.com/images/thumb/b/ba/Sonic_SSBU.png/250px-Sonic_SSBU.png
+King Dedede	https://www.ssbwiki.com/images/thumb/f/f5/King_Dedede_SSBU.png/250px-King_Dedede_SSBU.png
+Olimar	https://www.ssbwiki.com/images/thumb/b/b3/Olimar_SSBU.png/250px-Olimar_SSBU.png
+Lucario	https://www.ssbwiki.com/images/thumb/0/08/Lucario_SSBU.png/250px-Lucario_SSBU.png
+R.O.B	https://www.ssbwiki.com/images/thumb/3/38/R.O.B._%28JPN%29_SSBU.png/250px-R.O.B._%28JPN%29_SSBU.png
+Toon Link	https://www.ssbwiki.com/images/thumb/5/56/Toon_Link_SSBU.png/250px-Toon_Link_SSBU.png
+Wolf	https://www.ssbwiki.com/images/thumb/8/8a/Wolf_SSBU.png/250px-Wolf_SSBU.png
+Villager	https://www.ssbwiki.com/images/thumb/a/ac/Villager_SSBU.png/240px-Villager_SSBU.png
+Mega Man	https://www.ssbwiki.com/images/thumb/4/46/Mega_Man_SSBU.png/250px-Mega_Man_SSBU.png
+Wii Fit Trainer	https://www.ssbwiki.com/images/thumb/f/ff/Wii_Fit_Trainer_SSBU.png/250px-Wii_Fit_Trainer_SSBU.png
+Rosalina & Luma	https://www.ssbwiki.com/images/thumb/1/16/Rosalina_%26_Luma_SSBU.png/250px-Rosalina_%26_Luma_SSBU.png
+Little Mac	https://www.ssbwiki.com/images/thumb/5/53/Little_Mac_SSBU.png/250px-Little_Mac_SSBU.png
+Greninja	https://www.ssbwiki.com/images/thumb/d/da/Greninja_SSBU.png/250px-Greninja_SSBU.png
+Mii Fighter(you decide)	https://www.ssbwiki.com/images/thumb/f/fa/Mii_Swordfighter_SSBU.png/250px-Mii_Swordfighter_SSBU.png
+Palutena	https://www.ssbwiki.com/images/thumb/6/6b/Palutena_SSBU.png/250px-Palutena_SSBU.png
+Pac-Man	https://www.ssbwiki.com/images/thumb/0/03/Pac-Man_SSBU.png/250px-Pac-Man_SSBU.png
+Robin	https://www.ssbwiki.com/images/thumb/8/82/Robin_SSBU.png/250px-Robin_SSBU.png
+Shulk	https://www.ssbwiki.com/images/thumb/0/0f/Shulk_SSBU.png/250px-Shulk_SSBU.png
+Bowser Jr.	https://www.ssbwiki.com/images/thumb/2/2b/Bowser_Jr._SSBU.png/270px-Bowser_Jr._SSBU.png
+Duck Hunt	https://www.ssbwiki.com/images/thumb/d/d8/Duck_Hunt_SSBU.png/250px-Duck_Hunt_SSBU.png
+Ryu	https://www.ssbwiki.com/images/thumb/6/61/Ryu_SSBU.png/250px-Ryu_SSBU.png
+Ken	https://www.ssbwiki.com/images/thumb/f/f6/Ken_SSBU.png/250px-Ken_SSBU.png
+Cloud	https://www.ssbwiki.com/images/thumb/b/b3/Cloud_SSBU.png/250px-Cloud_SSBU.png
+Corrin	https://www.ssbwiki.com/images/thumb/b/b5/Corrin-Alt1_SSBU.png/250px-Corrin-Alt1_SSBU.png
+Bayonetta	https://www.ssbwiki.com/images/thumb/7/7c/Bayonetta_SSBU.png/240px-Bayonetta_SSBU.png
+Inkling	https://www.ssbwiki.com/images/thumb/2/2e/Inkling_SSBU.png/242px-Inkling_SSBU.png
+Ridley	https://www.ssbwiki.com/images/thumb/2/27/Ridley_SSBU.png/250px-Ridley_SSBU.png
+Simon	https://www.ssbwiki.com/images/thumb/9/95/Simon_SSBU.png/250px-Simon_SSBU.png
+Richter	https://www.ssbwiki.com/images/thumb/c/c2/Richter_SSBU.png/250px-Richter_SSBU.png
+King K. Rool	https://www.ssbwiki.com/images/thumb/b/b6/King_K._Rool_SSBU.png/250px-King_K._Rool_SSBU.png
+Isabelle	https://www.ssbwiki.com/images/thumb/2/2b/Isabelle_SSBU.png/240px-Isabelle_SSBU.png
+Incineroar	https://www.ssbwiki.com/images/thumb/c/c4/Incineroar_SSBU.png/250px-Incineroar_SSBU.png
+Piranha Plant	https://www.ssbwiki.com/images/thumb/f/f0/Piranha_Plant_SSBU.png/250px-Piranha_Plant_SSBU.png	
+Joker	https://www.ssbwiki.com/images/thumb/5/5c/Joker_SSBU.png/250px-Joker_SSBU.png
+Hero	https://www.ssbwiki.com/images/thumb/0/07/Hero_SSBU.png/250px-Hero_SSBU.png
+Banjo & Kazooie	https://www.ssbwiki.com/images/thumb/9/97/Banjo_%26_Kazooie_SSBU.png/250px-Banjo_%26_Kazooie_SSBU.png

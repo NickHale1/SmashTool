@@ -1,5 +1,8 @@
 package Application;
 
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+
 import javafx.scene.image.Image;
 
 //import JavaFx.scene.image;
@@ -34,7 +37,7 @@ public class SmashCharacter
        {
               String[] info = information.split("\t");
               this.name = info[0];
-              //this.picture = new Image(info[1]);
+              this.picture = new Image(info[1]);
              
               
        }

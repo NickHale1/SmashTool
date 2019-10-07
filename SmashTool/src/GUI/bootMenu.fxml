@@ -7,28 +7,88 @@
 <?import java.lang.*?>
 <?import javafx.scene.layout.*?>
 
-<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="GUI.SmashToolMain">
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="635.0" prefWidth="1034.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="GUI.SmashToolMain">
    <children>
-      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#222222" height="416.0" layoutX="-8.0" layoutY="-7.0" stroke="BLACK" strokeType="INSIDE" width="617.0" />
-      <ImageView fitHeight="148.0" fitWidth="255.0" layoutX="173.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true">
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#222222" height="643.0" layoutX="-8.0" layoutY="-7.0" stroke="BLACK" strokeType="INSIDE" width="1053.0" />
+      <ImageView fx:id="logoImage" fitHeight="148.0" fitWidth="255.0" layoutX="391.0" layoutY="23.0" pickOnBounds="true" preserveRatio="true">
          <image>
             <Image url="@SmashLogo.png" />
          </image>
       </ImageView>
-      <Button fx:id="fight" layoutX="235.0" layoutY="292.0" mnemonicParsing="false" prefHeight="54.0" prefWidth="131.0" text="Fight!">
+      <Button fx:id="fight" layoutX="453.0" layoutY="534.0" mnemonicParsing="false" prefHeight="54.0" prefWidth="131.0" text="Fight!">
          <font>
             <Font name="Arial Rounded MT Bold" size="21.0" />
          </font>
       </Button>
-      <Text fx:id="p1Text" fill="WHITE" layoutX="72.0" layoutY="150.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Player 1" textAlignment="CENTER" wrappingWidth="143.13671875">
+      <Text fx:id="p1Text" fill="WHITE" layoutX="91.0" layoutY="150.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Player 1" textAlignment="CENTER" wrappingWidth="143.13671875">
          <font>
             <Font name="Arial Rounded MT Bold" size="20.0" />
          </font>
       </Text>
-      <Text fx:id="p2Text" fill="WHITE" layoutX="385.0" layoutY="150.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Player 2" textAlignment="CENTER" wrappingWidth="143.13671875">
+      <Text fx:id="p2Text" fill="WHITE" layoutX="805.0" layoutY="150.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Player 2" textAlignment="CENTER" wrappingWidth="143.13671875">
          <font>
             <Font name="Arial Rounded MT Bold" size="20.0" />
          </font>
       </Text>
+      <VBox layoutX="6.0" layoutY="203.0" prefHeight="305.0" prefWidth="475.0">
+         <children>
+            <HBox prefHeight="238.0" prefWidth="475.0">
+               <children>
+                  <ImageView fx:id="p1f1picture" fitHeight="221.0" fitWidth="169.0" pickOnBounds="true" preserveRatio="true" />
+                  <ImageView fx:id="p1f2picture" fitHeight="222.0" fitWidth="164.0" pickOnBounds="true" preserveRatio="true" />
+                  <ImageView fx:id="p1f3picture" fitHeight="224.0" fitWidth="167.0" pickOnBounds="true" preserveRatio="true" />
+               </children>
+            </HBox>
+            <HBox prefHeight="100.0" prefWidth="200.0">
+               <children>
+                  <Text fx:id="p1f1name" fill="WHITE" strokeType="OUTSIDE" strokeWidth="0.0" textAlignment="CENTER" wrappingWidth="148.13671875">
+                     <font>
+                        <Font name="Arial Rounded MT Bold" size="22.0" />
+                     </font>
+                  </Text>
+                  <Text fx:id="p1f2name" fill="WHITE" strokeType="OUTSIDE" strokeWidth="0.0" textAlignment="CENTER" wrappingWidth="160.13671875">
+                     <font>
+                        <Font name="Arial Rounded MT Bold" size="22.0" />
+                     </font>
+                  </Text>
+                  <Text fx:id="p1f3name" fill="WHITE" strokeType="OUTSIDE" strokeWidth="0.0" textAlignment="CENTER" wrappingWidth="167.13671875">
+                     <font>
+                        <Font name="Arial Rounded MT Bold" size="22.0" />
+                     </font>
+                  </Text>
+               </children>
+            </HBox>
+         </children>
+      </VBox>
+      <VBox layoutX="527.0" layoutY="203.0" prefHeight="305.0" prefWidth="475.0">
+         <children>
+            <HBox prefHeight="238.0" prefWidth="475.0">
+               <children>
+                  <ImageView fx:id="p2f1picture" fitHeight="221.0" fitWidth="169.0" pickOnBounds="true" preserveRatio="true" />
+                  <ImageView fx:id="p2f2picture" fitHeight="222.0" fitWidth="164.0" pickOnBounds="true" preserveRatio="true" />
+                  <ImageView fx:id="p2f3picture" fitHeight="224.0" fitWidth="167.0" pickOnBounds="true" preserveRatio="true" />
+               </children>
+            </HBox>
+            <HBox prefHeight="100.0" prefWidth="200.0">
+               <children>
+                  <Text fx:id="p2f1name" fill="WHITE" strokeType="OUTSIDE" strokeWidth="0.0" textAlignment="CENTER" wrappingWidth="148.13671875">
+                     <font>
+                        <Font name="Arial Rounded MT Bold" size="22.0" />
+                     </font>
+                  </Text>
+                  <Text fx:id="p2f2name" fill="WHITE" strokeType="OUTSIDE" strokeWidth="0.0" textAlignment="CENTER" wrappingWidth="160.13671875">
+                     <font>
+                        <Font name="Arial Rounded MT Bold" size="22.0" />
+                     </font>
+                  </Text>
+                  <Text fx:id="p2f3name" fill="WHITE" strokeType="OUTSIDE" strokeWidth="0.0" textAlignment="CENTER" wrappingWidth="167.13671875">
+                     <font>
+                        <Font name="Arial Rounded MT Bold" size="22.0" />
+                     </font>
+                  </Text>
+               </children>
+            </HBox>
+         </children>
+      </VBox>
    </children>
 </AnchorPane>
